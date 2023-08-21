@@ -1,10 +1,16 @@
 theme: minima
 
 title: Moments of Power
-author:
-  name: Thomas Steffen
-  email: t.steffen@ieee.org
+email: t.steffen@ieee.org
 
 description: >
   Dedicated to the statistical analysis of energy systems. 
   
+plugins:
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: '%d-%b-%y'
+
+last_edit_timestamp: true 
