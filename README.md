@@ -1,4 +1,3 @@
-# Moments of Power
 
 This website is dedicated to the "moments of power" methodology, as introduced in the SAE Paper 2023-01-0541. See https://www.sae.org/publications/technical-papers/content/2023-01-0541/ for the details. 
 
