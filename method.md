@@ -22,7 +22,7 @@ $$ E = \int Y_0 + Y_1 P + Y_2 P^2 + Y_3 Y^3 dt $$
 
 which can be separate into 
 
-$$ E = Y_0 \int dt + Y_1 \int P dt + Y_2 \int P^2 dt + Y_3 int P^3 dt $$
+$$ E = Y_0 \int dt + Y_1 \int P dt + Y_2 \int P^2 dt + Y_3 \int P^3 dt $$
 
 Those integrals are related to the moments of the distributino of P, which are familiar statistical measures, leading to:
 
