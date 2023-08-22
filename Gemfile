@@ -8,4 +8,4 @@ group :jekyll_plugins do
 end
 
 gem "just-the-docs"
-gem "minima"
+# gem "minima"
