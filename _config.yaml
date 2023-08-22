@@ -2,8 +2,8 @@ theme: minima
 
 title: Moments of Power
 email: t.steffen@ieee.org
-
-mathjax:            true
+last_edit_timestamp: true 
+mathjax: true
 
 description: >
   Dedicated to the statistical analysis of energy systems. 
@@ -15,4 +15,3 @@ plugins:
 last-modified-at:
     date-format: '%d-%b-%y'
 
-last_edit_timestamp: true 
