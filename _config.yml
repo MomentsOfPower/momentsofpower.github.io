@@ -1,0 +1,12 @@
+title: Moments of Power
+theme: just-the-docs
+description: >
+  Dedicated to the statistical analysis of energy systems. 
+
+mathjax: true
+
+plugins:
+  - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: '%d-%b-%y'
