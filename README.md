@@ -1,5 +1,5 @@
-# Behind the Scenes
+# Moments of Power
 
-This website was created using GitHub Page, jekyll, just-the-docs, and the beta action. We truly stand on the shoulders of giants. 
+This is the source code for the website "Moments of Power" at momentsofpower.ac.uk. 
 
-The source code is all visible on GitHub, so please feel free to take inspiration. 
+If you would like to contribute, please contact me. 
