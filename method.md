@@ -1,3 +1,8 @@
+---
+title: Method
+layout: page
+---
+
 The basic premise of "moments of power" is simple. 
 
 Imagine an energy conversion system, such as an electric motor. 
